@@ -1,1 +1,1 @@
-# Codsoft_tast1
+This Java program is a Number Guessing Game where the user has 10 attempts to guess a randomly generated number between 1 and 100. After each guess, the program indicates if the guess is too low, too high, or correct. If the user runs out of attempts, the correct number is revealed. The game can be replayed multiple times until the user chooses to stop.
